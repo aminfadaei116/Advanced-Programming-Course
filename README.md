@@ -1,2 +1,2 @@
 # Advanced-Programming-Course
-hi
+The following repository contains my uploaded code for advanced programming course.
